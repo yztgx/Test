@@ -10,7 +10,6 @@ import Foundation
 
 print("Hello, World!")
 
-print("new Line")
 
 //计算规则：1-5分，1极不安全，5最安全
 //默认1分、包含数字+1分，包含字母+1分，长度超过6 +1,包含特殊符号+1
